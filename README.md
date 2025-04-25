@@ -4,8 +4,8 @@
 💻 Passionate about **Web Development**, **Django**, **Python**, and **Freelancing**  
 🌱 Always learning and building full-stack web apps  
 💬 Looking to collaborate on **web apps, open-source projects, and freelance work**  
-📫 Reach me at: [your email or LinkedIn/GitHub link here]  
-😄 Pronouns: [Your pronouns here]  
+📫 Reach me at: marzypanz8@gmail.com  
+😄 Pronouns: he/him  
 ⚡ Fun fact: I enjoy turning coffee ☕ into clean, working code!
 
 ---
